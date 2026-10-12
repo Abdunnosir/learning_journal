@@ -6,23 +6,8 @@ Har kuni o'rgangan bitta web xavfsizlik zaifligini shu yerga qo'yib boraman: naz
 
 | Sana | Mavzu | Havola |
 |---|---|---|
-| 2026-10-04 | Cross-Site Scripting (XSS) — Reflected, Stored, DOM-based | [2026-10-04-xss/notes.md](./2026-10-04-xss/notes.md) |
-
-> Yangi mavzu qo'shilganda shu jadvalga yangi qator qo'shiladi.
-
-## 📁 Struktura
-
-```
-xss-learning-journal/
-├── README.md                 ← shu fayl, barcha kunlar indeksi
-└── YYYY-MM-DD-mavzu/
-    ├── notes.md               ← o'sha kungi tushuntirish
-    └── images/                ← o'sha kungi rasmlar
-```
-
-## ✍️ Qo'shish tartibi
-
-Yangi zaiflik o'rganilganda:
-1. `YYYY-MM-DD-mavzu-nomi/` nomli yangi papka oching.
-2. Ichiga `notes.md` va `images/` papkasini joylashtiring.
-3. Shu README.md dagi jadvalga yangi qator qo'shing.
+| 2026-10-04 | Cross-Site Scripting (XSS) — Reflected, Stored, DOM-based | [xss/notes.md](./xss/notes.md) |
+| 2026-10-06 | SQL INJECTION        (SQL-injection)inBAND,BLIND,OAST     | [sql-injection/notes.md](./sql-injection/notes.md) |
+| 2026-10-08 | OS-command-injection (os-command-injection)               | [os-command-injection/notes.md](./os-command-injection/notes.md) |
+| 2026-10-08 | Path-traversal (path-traversal)                           | [path-traversal/notes.md](./path-traversal/notes.md) |
+| 2026-10-12 | server site template injection  (ssti)                    | [ssti/notes.md](./ssti/notes.md) |
