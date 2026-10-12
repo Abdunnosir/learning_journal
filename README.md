@@ -11,3 +11,4 @@ Har kuni o'rgangan bitta web xavfsizlik zaifligini shu yerga qo'yib boraman: naz
 | 2026-10-08 | OS-command-injection (os-command-injection)               | [os-command-injection/notes.md](./os-command-injection/notes.md) |
 | 2026-10-08 | Path-traversal (path-traversal)                           | [path-traversal/notes.md](./path-traversal/notes.md) |
 | 2026-10-12 | server site template injection  (ssti)                    | [ssti/notes.md](./ssti/notes.md) |
+| 2026-10-12 | Broken authentification                                   | [broken authentification/notes.md](./broken-authentication/notes.md) |
